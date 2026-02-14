@@ -64,6 +64,8 @@ source parlant-env/bin/activate
 
 ```bash
 pip install -e .
+pip install pytest
+pip install pytest-asyncio
 ```
 
 ### 1.3 配置 LLM API Key
